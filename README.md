@@ -1,7 +1,7 @@
 
-# Bongo Cat Spam (BCat) — Minimal README
+# Bongo Cat Spam
 
-This repo contains installer and plugin scripts for running the Bongo Cat automation in Steam.
+This repo contains installer and plugin scripts for running the Bongo Cat automation in Steam. This currently only works on KDE systems.
 
 Quick install (single command, no repo clone):
 
