@@ -1,7 +1,7 @@
 
 # Bongo Cat Spam
 
-This repo contains installer and plugin scripts for running the Bongo Cat automation in Steam. This currently only works on KDE systems.
+This repo contains installer and plugin scripts for running the Bongo Cat automation in Steam. This currently only works on KDE systems. Well okay it seems to also only work on my System haha. But if you want this, here it is.
 
 Quick install (single command, no repo clone):
 
